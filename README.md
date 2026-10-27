@@ -54,6 +54,16 @@ A Python-based application for signature identification, with a trained identifi
 - Software engineering and backend development
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathmeshgawande83-ship-it&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshgawande83-ship-it&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
 
 ## 🤝 Connect With Me
 
