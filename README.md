@@ -13,13 +13,23 @@ I'm a Computer Science student passionate about software development, data analy
 - 🚀 Building projects that combine programming with real-world applications
 
 ---
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+</p>
+
+
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, Java, SQL  
-**Data Science:** Pandas, NumPy, Matplotlib, Exploratory Data Analysis  
-**Machine Learning:** Scikit-learn, model training and evaluation  
-**Web Development:** Flask, HTML, CSS  
+**Languages:** Python, Java, SQL    
+**Web Development:** HTML, CSS  
 **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
 ---
