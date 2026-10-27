@@ -1,3 +1,4 @@
+<div align="center">\n  <img src="banner.png" alt="Prathmesh Gawande - Python Developer" width="100%" />\n</div>
 # Hi, I'm Prathmesh Gawande 👋
 
 ### BTech Computer Science & Engineering Student | Python Developer
