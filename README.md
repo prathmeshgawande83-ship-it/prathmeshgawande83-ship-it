@@ -51,6 +51,3 @@ I'm always interested in learning, collaborating, and building useful projects.
 ---
 
 *“Learning by building, improving with every project.”*
-
-- ⚡ Fun fact: ...
--->
