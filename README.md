@@ -1,11 +1,11 @@
 # Hi, I'm Prathmesh Gawande 👋
 
-### BTech Computer Science & Engineering Student | Python Developer | Aspiring AI/ML Engineer
+### BTech Computer Science & Engineering Student | Python Developer
 
 I'm a Computer Science student passionate about software development, data analysis, and building practical technology projects. I enjoy learning new tools, solving problems, and turning ideas into working applications.
 
 - 🎓 Pursuing BTech in Computer Science & Engineering
-- 💻 Interested in Python, Machine Learning, Data Science, and Backend Development
+- 💻 Interested in Python, Machine Learning, Data Science
 - 🔍 Currently improving my development and problem-solving skills
 - 🚀 Building projects that combine programming with real-world applications
 
